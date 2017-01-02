@@ -1,0 +1,6 @@
+C:\Users\SV\documents\visual studio 2015\Projects\PMC\PMC\bin\Debug\PMC.exe.config
+C:\Users\SV\documents\visual studio 2015\Projects\PMC\PMC\bin\Debug\PMC.exe
+C:\Users\SV\documents\visual studio 2015\Projects\PMC\PMC\bin\Debug\PMC.pdb
+C:\Users\SV\documents\visual studio 2015\Projects\PMC\PMC\obj\Debug\PMC_Server.csprojResolveAssemblyReference.cache
+C:\Users\SV\documents\visual studio 2015\Projects\PMC\PMC\obj\Debug\PMC.exe
+C:\Users\SV\documents\visual studio 2015\Projects\PMC\PMC\obj\Debug\PMC.pdb
